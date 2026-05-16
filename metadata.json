@@ -1,0 +1,8 @@
+{
+  "name": "Create Centre FTI",
+  "description": "A pre-launch landing page for Create Centre FTI, a student organization at the Faculty of Information Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
